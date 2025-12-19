@@ -1,0 +1,12 @@
+{
+  "GEN_6_EXPERT_00001": { "file": "expert_1.json", "offset": 0 },
+  "GEN_6_EXPERT_10001": { "file": "expert_2.json", "offset": 0 },
+  "GEN_6_EXPERT_20001": { "file": "expert_3.json", "offset": 0 },
+  "GEN_6_EXPERT_30001": { "file": "expert_4.json", "offset": 0 },
+  "GEN_6_EXPERT_40001": { "file": "expert_5.json", "offset": 0 },
+  "GEN_6_EXPERT_50001": { "file": "expert_6.json", "offset": 0 },
+  "GEN_6_EXPERT_60001": { "file": "expert_7.json", "offset": 0 },
+  "GEN_6_EXPERT_70001": { "file": "expert_8.json", "offset": 0 },
+  "GEN_6_EXPERT_80001": { "file": "expert_9.json", "offset": 0 },
+  "GEN_6_EXPERT_90001": { "file": "expert_10.json", "offset": 0 }
+}
